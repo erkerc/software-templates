@@ -1,1 +1,4 @@
-
+catalog:
+  locations:
+    - type: url
+      target: https://github.com/erkerc/software-templates/edit/master/scaffolder-templates/wheres-teddy/template.yaml
